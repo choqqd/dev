@@ -11,5 +11,6 @@
 	<p>${member.name }님 환영합니다.</p>
 	<p>ID: ${member.id }</p>
 	<p>Mail: ${member.mail }</p>
+	<a href = "index.jsp">첫 페이지</a>
 </body>
 </html>
